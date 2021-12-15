@@ -1,4 +1,4 @@
-# Tom Hamilton
+# Tom Hamilton 
 Hi, my name is Tom Hamilton, I'm currently a third year computer engineering student at Queen's University.
 
 # Skills
