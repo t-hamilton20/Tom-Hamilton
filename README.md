@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+tom.hamilton@queensu.ca
 
 <h3 align="left">Major Projects:</h3>
 <p align="left">
