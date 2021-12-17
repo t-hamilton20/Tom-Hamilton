@@ -29,7 +29,8 @@ Space Evaders is a retro-style platformer made in C++ using raylib. It was inspi
  <h4 align="left">QuoteBot Discord Bot:</h4>
 <p align="left">
 </p>
-QuoteBot is a discord bot that outputs movie quotes on request. For example, "-inspire" would return an inspirational movie quote from a text file such as "“Do, or do not. There is no “try”. – Yoda". This program was made in Python using the discord.py API.
+QuoteBot is a discord bot that outputs movie quotes on request. For example, "-inspire" would return an inspirational movie quote from a text file such as "“Do, or do not. There is no “try”. – Yoda". This program was made in Python using the discord.py API. <br/>
+<br/>https://github.com/t-hamilton20/QuoteBot/tree/main
 </p>
 <h4 align="left">QUANTT Financial Trading Algorithm:</h4>
 <p align="left">
@@ -41,12 +42,12 @@ This algorithm, created with four others as part of the Queen's University Algor
 </p>
 This program, created in Python, scrapes the web to get the career stats of a desired NBA player.  <br/>
  <br/>https://github.com/t-hamilton20/NBA-Web-Scraper/blob/main/main.py
- 
  </p>
 <h4 align="left">Shakesperian Insult Generator:</h4>
 <p align="left">
 </p>
-This C++ program creates "Shakesperian Insults", based on a text file full of potential words. The program can create any number of insults based on the user input and save them to a text file sorted in alphabetical order. 
+This C++ program creates "Shakesperian Insults", based on a text file full of potential words. The program can create any number of insults based on the user input and save them to a text file sorted in alphabetical order. <br/>
+<br/>https://github.com/t-hamilton20/Shakesperian-Insult-Generator
 </p>
 <h4 align="left">Automatic Form Filler:</h4>
 <p align="left">
