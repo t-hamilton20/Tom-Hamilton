@@ -29,7 +29,7 @@ Space Evaders is a retro-style platformer made in C++ using raylib. It was inspi
  <h4 align="left">QuoteBot Discord Bot:</h4>
 <p align="left">
 </p>
-QuoteBot is a discord bot that outputs movie quotes on request. For example, "-inspire" would return an inspirational movie quote from a text file such as "“Do, or do not. There is no “try”. – Yoda". This program was made in Python using the discord.py API. <br/>
+QuoteBot is a discord bot that outputs movie quotes on request. For example, "-inspire" would return an inspirational movie quote from a text file such as "“Do, or do not. There is no “try”. – Yoda". Users can also add their own quotes using the addQuote command, and the bot can output a random added quote using the serverQuotes command. This program was made in Python using the discord.py API. <br/>
 <br/>https://github.com/t-hamilton20/QuoteBot/tree/main
 </p>
 <h4 align="left">QUANTT Financial Trading Algorithm:</h4>
