@@ -1,5 +1,5 @@
 <h1 align="center">Tom Hamilton</h1>
-<h3 align="center">Third year computer engineering student at Queen's University</h3>
+<h3 align="center">Computer engineering student at Queen's University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
