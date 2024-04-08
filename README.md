@@ -10,6 +10,12 @@ tom.hamilton@queensu.ca
 <p align="left">
 </p>
 
+<h4 align="left">Physical Attacks on Self-Driving Systems:</h4>
+<p align="left">
+</p>
+This capstone project was completed with two other students and tests the robustness of deep learning models by automatically altering images of traffic signs to simulate real-world attacks such as vandalism and determining the resilience of deep learning models in classifying the attacked data. <br/>
+<br/>https://github.com/t-hamilton20/Capstone_Group4
+
 <h4 align="left">Homeslice:</h4>
 <p align="left">
 </p>
